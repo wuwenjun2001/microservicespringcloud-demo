@@ -1,0 +1,8 @@
+{
+  "timestamp": 1530269888309,
+  "status": 400,
+  "error": "Bad Request",
+  "exception": "org.springframework.web.method.annotation.MethodArgumentTypeMismatchException",
+  "message": "Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: \"list\"",
+  "path": "/consumer/dept/get/list"
+}

@@ -1,0 +1,2 @@
+gitConfigServer: 在github中需要配置的文件
+sql：在mysql中需要执行的脚本

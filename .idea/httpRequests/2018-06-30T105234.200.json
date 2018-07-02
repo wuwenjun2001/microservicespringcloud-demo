@@ -1,0 +1,32 @@
+[
+  {
+    "deptno": 1,
+    "dname": "开发部",
+    "db_source": "cloudDB01"
+  },
+  {
+    "deptno": 2,
+    "dname": "人事部",
+    "db_source": "cloudDB01"
+  },
+  {
+    "deptno": 3,
+    "dname": "财务部",
+    "db_source": "cloudDB01"
+  },
+  {
+    "deptno": 4,
+    "dname": "市场部",
+    "db_source": "cloudDB01"
+  },
+  {
+    "deptno": 5,
+    "dname": "运维部",
+    "db_source": "cloudDB01"
+  },
+  {
+    "deptno": 6,
+    "dname": "???",
+    "db_source": "cloudDB01"
+  }
+]

@@ -1,0 +1,128 @@
+GET http://localhost:80/consumer/dept/get/1?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-30T060846.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/1?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-30T060836.404.json
+
+###
+
+GET http://localhost:80/consumer/dept/list?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-30T060723.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/list?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-30T105234.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/list?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065819.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/get/list?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065808.400.json
+
+###
+
+GET http://localhost:80/consumer/dept/get/1?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065804.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/add?dname=测试部&db_source=cloudDB01
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065800.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/get/4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065544.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/get/3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065543.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/get/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065540.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/get/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065539.200.json
+
+###
+
+GET http://localhost:80/consumer/dept/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T065532.200.json
+
+###
+
+GET http://localhost:8001/dept/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T052155.200.json
+
+###
+
+GET http://localhost:8001/dept/get/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T052149.200.json
+
+###
+
+GET http://localhost:8001/dept/get/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-29T052146.200.json
+
+###
+
